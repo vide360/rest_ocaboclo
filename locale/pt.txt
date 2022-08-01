@@ -1,0 +1,52 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_4259A05D_563C_79DD_41D3_87F59F29CA40.source = https://wa.me/5583999025942
+LinkBehaviour_45A6038C_563C_1F23_41C1_00D8BDC47427.source = https://wa.me/5583999025942
+LinkBehaviour_45E5EF57_563C_072E_41D5_9A6F23854163.source = https://www.google.com/maps/place/Bar+e+Restaurante+-+O+Caboclo/@-7.2657315,-37.3512687,15z/data=!4m5!3m4!1s0x0:0xc23edd72f2038fe0!8m2!3d-7.2657394!4d-37.3512652
+LinkBehaviour_4267805B_563C_7925_41D3_327C94EF2A08.source = https://www.google.com/maps/place/Bar+e+Restaurante+-+O+Caboclo/@-7.2657315,-37.3512687,15z/data=!4m5!3m4!1s0x0:0xc23edd72f2038fe0!8m2!3d-7.2657394!4d-37.3512652
+
+## Hotspot
+
+### Text
+QuadHotspotPanoramaOverlayTextImage_591FA23E_564C_195E_4191_8F8D2D56F812.text = Fraldário
+
+## Media
+
+### Audio
+audiores_478CC535_5634_3B62_41D4_F17CC0793832.mp3Url = media/audio_457BA799_5634_0722_41D5_2F839627E20C_pt.mp3
+
+### Image
+imlevel_44A9F782_564C_0727_41D0_7286580BECCF.url = media/panorama_5C5B22D9_5634_3922_41D3_1A28A35DBBC3_HS_kmq7wru0_pt.png
+
+### Title
+panorama_5C5B22D9_5634_3922_41D3_1A28A35DBBC3.label = BanhoF01
+panorama_5C006916_5634_0B2E_41C6_9BDA0EBD040B.label = BanhoF02
+panorama_5C05BA67_5634_09ED_41CB_A9EBE02C31FF.label = BanhoM
+panorama_5C041BED_5634_0EE2_41D0_486CD11D3E8C.label = Coz
+panorama_5C04522F_5634_197D_41D3_D88E080DDC7C.label = Salão1
+panorama_5C0634DA_5634_3926_41C0_64B742AF2E61.label = Salão2
+panorama_5C064703_5634_0726_41CA_582685A66D85.label = Salão3
+panorama_5C06F999_5634_0B25_4194_313D8B2A047E.label = Salão4
+panorama_5C05FDB5_5634_0B6D_4199_3B9C00C7DF7F.label = entrada02
+panorama_4884F20D_598C_25F2_41CA_A390E621AE2F.label = jardim
+panorama_5C06FBEA_5634_0EE6_419F_923DC9A15FFF.label = terraço1
+panorama_5C063E6A_5634_09E6_41D4_84EEE0B97A84.label = terraço2
+panorama_5C063FED_5634_06E2_41C4_3491C9254F56.label = terraço3
+
+## Skin
+
+### Image
+Image_4249BB1B_5634_0F25_41CB_769E7C0F0690_mobile.url = skin/Image_4249BB1B_5634_0F25_41CB_769E7C0F0690_mobile_pt.gif
+Image_4249BB1B_5634_0F25_41CB_769E7C0F0690.url = skin/Image_4249BB1B_5634_0F25_41CB_769E7C0F0690_pt.gif
+Image_45331075_5634_19ED_41A1_96D4D530F0DE_mobile.url = skin/Image_45331075_5634_19ED_41A1_96D4D530F0DE_mobile_pt.gif
+Image_45331075_5634_19ED_41A1_96D4D530F0DE.url = skin/Image_45331075_5634_19ED_41A1_96D4D530F0DE_pt.gif
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Restaurante O Cabloco
